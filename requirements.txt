@@ -1,0 +1,6 @@
+ollama
+langchain-ollama
+langchain-community
+nest_asyncio
+pypdf
+langchain-openai
